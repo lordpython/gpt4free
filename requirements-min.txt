@@ -3,3 +3,4 @@ aiohttp
 brotli
 pycryptodome
 curl_cffi>=0.6.2
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
